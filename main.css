@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.clr {
+    clear: both;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.navbar {
+    background-color: black;
+}
+
+.list li a {
+    text-decoration: none;
+    color: white;
+    margin-right: 15px;
+    text-transform: uppercase;
+}
+
+.list ul {
+    list-style-type: none;
+}
+
+.logo img {
+    width: 50%;
+}
+
+.logo {
+    float: left;
+    padding-top: 5px;
+}
+
+.list {
+    float: right;
+}
+
+.list li {
+    float: left;
+    padding-top: 5px;
+}
+
+.port h2 {
+    text-transform: uppercase;
+}
+
+.port p {
+    margin-bottom: 10px;
+    text-decoration: solid;
+}
+
+.port {
+    text-align: center;
+    background-color: bisque;
+}
+
+.port-item {
+    float: left;
+    width: 33.33%;
+    padding-right: 10px;
+}
+
+.port-item img {
+    width: 100%;
+    display: block;
+}
